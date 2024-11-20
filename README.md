@@ -1,2 +1,2 @@
-# M-kemmel-Say-
+w# Mukemmel-Sayi
 girilen  sayının mükemmel olup olmadığını bulur
